@@ -1,0 +1,9 @@
+{
+  "action": "init",
+  "algorithm": "greedy",
+  "agent_row": 0,
+  "agent_col": 0,
+  "rescued": 0,
+  "grid": [],
+  "survivors": []
+}
